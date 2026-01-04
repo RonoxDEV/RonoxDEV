@@ -8,7 +8,7 @@
 
 ### 1. 🧪 The Prototype (Test / PoC)
 *Validate a mechanical idea quickly.*
-* **Price:** **€10 - €20**
+* **Price:** **€5 - €20**
 * **Delivery Time:** 1 to 3 days
 
 ### 2. 📦 TinyMod (Standard Content)
