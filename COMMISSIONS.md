@@ -44,6 +44,11 @@
 
 📌 **Live Example:** [He Hears You](https://github.com/RonoxDEV/HeHearsYou) (Voice AI Integration)
 
+📌 **Possible Example:** [The Broken Script](https://modrinth.com/mod/the-broken-scripthttps://modrinth.com/mod/the-broken-script) 
+
+📌 **Possible Example:** [Alex's Caves](https://modrinth.com/mod/alexs-caves) 
+
+
 ---
 
 *Note: Delivery times are estimates and may vary depending on my current workload. Quality and optimization are my priorities.*
