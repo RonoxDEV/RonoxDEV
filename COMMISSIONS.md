@@ -1,26 +1,30 @@
 # 📜 COMMISSIONS & SERVICES (Starter Prices)
 
 **Status:** 🟢 OPEN
-**Special Offer:** Currently offering reduced rates to build my portfolio!
+**Special Offer:** Reduced rates to build my portfolio!
 **Contact:** `ronoxdevlopper` on Discord
 
 ---
 
 ### 1. 🧪 The Prototype (Test / PoC)
-*Need to see if an idea is possible?*
-* **Estimated Price:** **€10 - €20** (Fast delivery)
+*Validate a mechanical idea quickly.*
+* **Price:** **€10 - €20**
+* **Delivery Time:** 1 to 3 days
 
 ### 2. 📦 TinyMod (Standard Content)
-*Items, blocks, or simple machines.*
-* **Estimated Price:** **€30 - €50**
+*Custom items, blocks, or simple machines.*
+* **Price:** **€30 - €60**
+* **Delivery Time:** 3 to 7 days
 
 ### 3. ⚙️ FatMod (Advanced Mechanics)
 *Mixins, complex AI, or GeckoLib animations.*
-* **Estimated Price:** **€60 - €110**
+* **Price:** **€70 - €110**
+* **Delivery Time:** 1 to 3 weeks (depends on complexity)
 
 ### 4. 💎 CustomMod (High-End & VFX)
 *Advanced rendering (Veil), AI integrations, or unique systems.*
-* **Estimated Price:** **Starting from €150** (Quote based)
+* **Price:** **Starting from €130**
+* **Delivery Time:** Custom quote (typically 3+ weeks)
 
 ---
-*Note: These prices are temporary while I expand my portfolio with new exciting projects!*
+*Note: Delivery times are estimates and may vary depending on my current workload. Quality and optimization are my priorities.*
