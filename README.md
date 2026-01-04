@@ -1,25 +1,25 @@
-# Salut, je suis RonoxDEV 👋
+# Hi, I'm RonoxDEV 👋
 
-### 🛠 Développeur Java | Spécialiste Minecraft Mods
-Je me spécialise dans la création de mods Minecraft "poussés", allant de nouvelles mécaniques de jeu complexes à l'ajout de systèmes techniques avancés. Passionné par l'écosystème Minecraft, je transforme des idées créatives en code performant.
-
----
-
-### 🚀 Ce que je fais
-* **Modding Avancé :** Création de mods complexes sous **Forge** & **Fabric** (Entités personnalisées, systèmes de machines, magie, dimensions).
-* **Architecture Java :** Code propre, organisé et documenté pour une maintenance facile.
-* **Optimisation :** Développement orienté performance pour garantir une expérience de jeu fluide.
-
-### 📊 Mes Statistiques GitHub
-![Stats de RonoxDEV](https://github-readme-stats.vercel.app/api?username=RonoxDEV&show_icons=true&theme=tokyonight&count_private=true)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=RonoxDEV&layout=compact&theme=tokyonight)
+### 🛠 Java Developer | Minecraft Modding Specialist
+I specialize in creating "advanced" Minecraft mods, ranging from complex new gameplay mechanics to high-end technical systems. Passionate about the Minecraft ecosystem, I turn creative ideas into high-performance code.
 
 ---
 
-### 📬 Me contacter pour un projet
-Tu as besoin d'un mod spécifique pour une vidéo YouTube, un projet de serveur moddé ou une commande personnalisée ?
-* **Email :** [ronoxdev.contact@gmail.com](ronoxdev.contact@gmail.com)
-* **Discord :** `ronoxdevlopper`
+### 🚀 What I Do
+* **Advanced Modding:** Developing complex mods using **Forge** & **Fabric** (Custom entities, machine systems, magic, dimensions).
+* **Java Architecture:** Clean, organized, and documented code for easy maintenance.
+* **Optimization:** Performance-oriented development to ensure a smooth gaming experience.
+
+### 📊 GitHub Stats
+![RonoxDEV's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonoxDEV&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonoxDEV&layout=compact&theme=tokyonight)
 
 ---
-*« Développer des mondes, un bloc à la fois. »*
+
+### 📬 Contact me for a project
+Do you need a specific mod for a YouTube video, a modded server project, or a custom commission?
+* **Email:** [ronoxdev.contact@gmail.com](mailto:ronoxdev.contact@gmail.com)
+* **Discord:** `ronoxdevlopper`
+
+---
+*“Developing worlds, one block at a time.”*
